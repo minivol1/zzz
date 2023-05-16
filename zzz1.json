@@ -1,7 +1,7 @@
 
 {
 ## spider
-"spider":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0928.jar",
+"spider":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/cc.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
